@@ -11,3 +11,5 @@ Untitled.ipynb
 *.log
 run.cmd
 .vscode
+config.yml
+config.json
